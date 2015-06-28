@@ -1,4 +1,0 @@
-1) copy .bash_profile to ~/	
-2) git autocomplete = https://github.com/git/git/blob/master/contrib/completion/git-completion.bash
-3) add http://git-prompt.sh/ to update ~/.bashrc
-4) copy .gitconfig to ~/
