@@ -2,5 +2,8 @@
 	s = status
 	b = branch
 	d = diff
+	co = checkout
+	cm = commit
+	l = log --graph --decorate --pretty=oneline --abbrev-commit --all		
 [color]
 	ui = true
