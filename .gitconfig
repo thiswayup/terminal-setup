@@ -5,5 +5,6 @@
 	co = checkout
 	cm = commit
 	l = log --graph --decorate --pretty=oneline --abbrev-commit --all		
+	pom = push origin master
 [color]
 	ui = true
