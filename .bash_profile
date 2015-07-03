@@ -1,3 +1,4 @@
+cd ~/dev/
 source ~/.terminalScripts/.git-completion.bash
 source ~/.terminalScripts/.git-prompt.sh
 source ~/.terminalScripts/.git-ps1.sh
